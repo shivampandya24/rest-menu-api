@@ -114,6 +114,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 4.  Push to the branch (`git push origin feature/feature-name`).
 5.  Open a pull request to the main branch.
 
+## Repo Activity
+![Alt](https://repobeats.axiom.co/api/embed/fe733519c03737fe1d1cd1aa36916de29c598dfd.svg "Repobeats analytics image")
+
 ## Security
 We take the security of the API extremely seriously. If you think you've found a security issue with the API (whether information disclosure, privilege escalation, or another issue), we'd appreciate responsible disclosure as soon as possible.
 
